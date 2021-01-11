@@ -22,7 +22,7 @@
     <groupId>sample</groupId>
     <artifactId>sample-project</artifactId>
     <version>SNAPSHOT-1.2.${v}</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 <?m2e ignore?>
     <properties>
         <errai.version>2.3.2.Final</errai.version>
