@@ -21,7 +21,7 @@
     <name>sampleproject</name>
     <groupId>sample</groupId>
     <artifactId>sample-project</artifactId>
-    <version>SNAPSHOT-1.2.${v}</version>
+    <version>SNAPSHOT-1.2</version>
     <packaging>war</packaging>
 <?m2e ignore?>
     <properties>
